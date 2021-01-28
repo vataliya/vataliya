@@ -17,7 +17,7 @@ Continuous learner looking for opportunities to create value with data-driven so
 
 ### 📫Connect with me: 
 
-- LinkedIn: www.linekdin.com/in/vataliya
+- LinkedIn: www.linkedin.com/in/vataliya
 - Email: vataliya.h@northeastern.edu
 - Twitter: VHarshish (https://twitter.com/vharshish)
 - Instagram: vharshish (https://www.instagram.com/vharshish/)
