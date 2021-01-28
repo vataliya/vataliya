@@ -21,6 +21,8 @@ Continuous learner looking for opportunities to create value with data-driven so
 - Email: vataliya.h@northeastern.edu
 - Twitter: VHarshish (https://twitter.com/vharshish)
 - Instagram: vharshish (https://www.instagram.com/vharshish/)
+- HackerRank : Vataliya (https://www.hackerrank.com/Vataliya?hr_r=1)
+- Acclaim : https://www.youracclaim.com/users/harshish-vataliya.12110f39/badges
 
 ### Review my work:
 
