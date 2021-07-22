@@ -5,7 +5,7 @@
 Here are some fun facts about me:
 -->
 
-"I have no special talent, I am only passionately curious" - Albert Einstein 
+In the words of Albert Einstein, "I have no special talent, I am only passionately curious". 
 
 Continuous learner looking for opportunities to create value with data-driven solutions and increasing the efficiency of data processing and analytics. Experienced across versatile domains and technologies throughout the academic and professional journey.
 
