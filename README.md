@@ -9,12 +9,6 @@ Here are some fun facts about me:
 
 Continuous learner looking for opportunities to create value with data-driven solutions and increasing the efficiency of data processing and analytics. Experienced across versatile domains and technologies throughout the academic and professional journey.
 
-- 🔭 I’m currently seeking full-time opporutinities in Data Analytics and Machine Learning 
-- 🌱 I’m currently learning Deep Learning and Computer Vision
-- 💬 Ask me about anything (Not an expert, but will try my best to answer)
-- ⚡ Fun fact : Mark Zuckerburg launched Facebook on my birthday.
-- 🏎️ Formula 1 fanatic ( #SilverArrows, #TeamLH )
-
 ### 📫Connect with me: 
 
 - LinkedIn: www.linkedin.com/in/vataliya
